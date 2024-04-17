@@ -2,16 +2,13 @@
 🔭 I’m currently working on Techies Blog - a ReactJS project<br>👯 I’m looking to collaborate on React JS and TypeScript Projects<br>🤝 I’m looking for help with NodeJS<br>🌱 I’m currently learning NodeJS and React Native<br>💬 Ask me about JavaScript, TypeScript, ReactJS, PHP<br>⚡ Fun fact I am React-ninja
 
 
-###
-
-<img src="https://raw.githubusercontent.com/igvishalpandey/igvishalpandey/output/snake.svg" alt="Snake animation" />
 
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igvishalpandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igvishalpandey) 
 
-
+###
 
 <img align="right" height="150"  style ="margin-top: 50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlkZmJkcDB3a3oxb3Z5cmwyMHg3YnExd291MHp2dmU5dTBhYzQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
