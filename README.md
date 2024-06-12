@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Techies Blog - a ReactJS project<br>👯 I’m looking to collaborate on React JS and TypeScript Projects<br>🤝 I’m looking for help with NodeJS<br>🌱 I’m currently learning backend<br>💬 Ask me about JavaScript, TypeScript, ReactJS, React Native, PHP<br>⚡ Fun fact I am React-ninja
+🔭 I have recently completed a project MoviesKingdom - a Movie Ticket Booking app made using React Native.<br>👯 I’m looking to collaborate on React JS, React Native and TypeScript Projects<br>🤝 I’m looking for help with NodeJS<br>🌱 I’m currently learning backend<br>💬 Ask me about JavaScript, TypeScript, ReactJS, React Native, PHP<br>⚡ Fun fact I am React-ninja
 
 
 ## 🌐 Socials:
